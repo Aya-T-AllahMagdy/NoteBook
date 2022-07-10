@@ -1,0 +1,10 @@
+.header{
+    justify-content: space-between;
+    align-items: center;
+}
+.dark-mode{
+    background-color: black;
+}
+.dark-mode h1{
+    color: white;
+}
